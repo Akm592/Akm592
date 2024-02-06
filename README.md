@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akm592&label=Profile%20views&color=0e75b6&style=flat" alt="akm592" /> </p>
 
-<p align="left"> </p>
-
 <p align="left"> <a href="https://twitter.com/akm957" target="blank"><img src="https://img.shields.io/twitter/follow/akm957?logo=twitter&style=for-the-badge" alt="akm957" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ashishkumarmishra.netlify.app/](https://ashishkumarmishra.netlify.app/)
