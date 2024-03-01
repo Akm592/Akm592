@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akm957" target="blank"><img src="https://img.shields.io/twitter/follow/akm957?logo=twitter&style=for-the-badge" alt="akm957" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ashishkumarmishra.netlify.app/](https://ashishkumarmishra.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ashishmishra.online/](https://ashishmishra.online/)
 
 - 📫 How to reach me **ashishkumarmishra952@gmail.com**
 
