@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Mishra</h1>
-<h3 align="center">A passionate frontend developer from Nagpur, Maharashtra, India</h3>
+<h3 align="center">I'm Ashish Kumar Mishra, a passionate and skilled full-stack web developer specializing in the MERN stack (MongoDB, Express, React, Node.js). Based in Nagpur, India, I have experience building interactive user interfaces, data-driven dashboards, and AI-powered applications. Explore my portfolio to see my latest projects and connect with me to discuss your web development needs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akm592&label=Profile%20views&color=0e75b6&style=flat" alt="akm592" /> </p>
 
