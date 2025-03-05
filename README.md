@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/akm957" target="blank"><img src="https://img.shields.io/twitter/follow/akm957?logo=twitter&style=for-the-badge" alt="akm957" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ashishmishra.online/](https://ashishmishra.online/)
+- 👨‍💻 All of my projects are available at [https://ashishmishra.online/](https://ashishmishra.site/)
 
 - 📫 How to reach me **ashishkumarmishra952@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zmHasAV2K07zppmhYtni2ULmYsdv_Wu-/view](https://drive.google.com/file/d/1zmHasAV2K07zppmhYtni2ULmYsdv_Wu-/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19aA2rSxskgnzK1ffEtQeJc_wA0ODttYQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
