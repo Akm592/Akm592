@@ -45,7 +45,7 @@
 🚀 "Code is poetry. Prompts are the new programming."
 
 🔹 **Building**: Intelligent Research Nexus (IRN) — AI-driven document analysis using RAG, LangChain, and Google Gemini  
-🔹 **Experience**: Ex-Full-Stack Intern @ Lamarr — Enhanced NLP systems (+15% accuracy) and accelerated web apps (30% faster)  
+🔹 **Experience**: Ex-Software Developer Intern @ Lamarr — Enhanced NLP systems (+15% accuracy) and accelerated web apps (30% faster)  
 🔹 **Stack**: Next.js • React • Node.js • FastAPI • LangChain • Supabase • Docker • Pinecone • WebGPU  
 🔹 **Focus**: AI Agents | RAG Optimization | LLM Fine-tuning | Scalable Microservices
 
