@@ -114,7 +114,7 @@
 
 ## 🏆 Experience
 
--   **Full-stack Developer Intern @ Lamarr** *(Jun-Aug 2024)*: Built AI web apps (`Next.js`, `Supabase`, `OpenAI`). +15% NLP accuracy, 30% faster load times.
+-   **Software  Developer Intern @ Lamarr** *(Jun-Aug 2024)*: Built AI web apps (`Next.js`, `Supabase`, `OpenAI`). +15% NLP accuracy, 30% faster load times.
 -   **Photography Head @ IEEE RGIPT**: Led photo coverage (20+ events). +30% editing speed.
 -   **Website Dev Head @ Urjotsav RGIPT** *(Nov-Dec 2023)*: Revamped site (+40% traffic). Launched CMS (-60% update time).
 
