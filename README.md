@@ -120,13 +120,9 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akm592&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" height="140"/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=akm592&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="140"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akm592&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="140"/>
-</p>
+
+
 
 ---
 
