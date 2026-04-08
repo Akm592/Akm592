@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ashish+Mishra;Full-Stack+Developer;GenAI;AI+Enthusiast;Problem+Solver" alt="Typing SVG" align="center" width="100%" />
 
 <p align="center">
-  <a href="https://ashishmishra.site/">
+  <a href="https://akm592.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1E90FF?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://linkedin.com/in/ashish-kumar-mishra-a286a2224">
@@ -133,7 +133,7 @@
  <a href="https://twitter.com/akm957"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%40akm957-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://linkedin.com/in/ashish-kumar-mishra-a286a2224"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="mailto:ashishkumarmishra952@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <a href="https://ashishmishra.site/"><img alt="Portfolio" src="https://img.shields.io/badge/Website-Portfolio-3FCF8E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+ <a href="https://akm592.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Website-Portfolio-3FCF8E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
  <a href="https://instagram.com/akm_297"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40akm__297-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
