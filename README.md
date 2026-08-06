@@ -8,7 +8,7 @@
   <a href="https://akm592.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge&logo=vercel"/></a>
   <a href="https://linkedin.com/in/ashish-kumar-mishra-a286a2224"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:ashishkumarmishra952@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://drive.google.com/file/d/1Nsc_IQ5doGKds1w4J1Gdy6pyNV1lntJ8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-orange?style=for-the-badge&logo=googledrive"/></a>
+  <a href="https://drive.google.com/file/d/1CGD1Dbko_wbiZFRN1vWASaGOajqHnmBa/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-orange?style=for-the-badge&logo=googledrive"/></a>
   <img src="https://komarev.com/ghpvc/?username=akm592&label=Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
